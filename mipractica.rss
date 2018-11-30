@@ -1,0 +1,26 @@
+<rss version="2.0">
+<!-- Se define el canal -->
+<channel>
+<title>Ejemplo de RSS</title>
+<link>http://tajes11911.github.io/</link>
+<description>
+Esta es mi pagina rss
+</description>
+<language>es</language>
+<!-- Se definen los distintos items del canal -->
+<item>
+<title>Tiempo</title>
+<link>https://www.eltiempo.es/</link>
+<description>
+Mira el tiempo que va a haber hoy.
+</description>
+</item>
+<item>
+<title>El PAIS</title>
+<link>https://elpais.com/</link>
+<description>
+Mira las últimas noticias.
+</description>
+</item>
+</channel>
+</rss>
