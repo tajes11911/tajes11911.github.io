@@ -1,29 +1,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es-es">
-<title type="text">Ejemplo de RSS</title>
-<updated>2011-01-14T19:17:46Z</updated>
-<link rel="self" type="application/atom+xml" href="http://www.infoalisal.com/feed/atom"/>
-<link rel="alternate" type="text/html" href="http://www.infoalisal.com"/>
-<id>http://www.infoalisal.com/feed/atom</id>
+<title type="text">ATOM</title>
+<updated>2018-11-29T19:17:46Z</updated>
+
+<link rel="self" type="application/atom+xml" href="http://tajes11911.github.io"/>
+
+<link rel="alternate" type="text/html" href="http://tajes11911.github.io"/>
+
+<id>http://tajes11911.github.io</id>
 <!-- Se definen las secciones que forman el canal -->
 <entry>
-<title>Ejemplo de Atom</title>
-<link rel="alternate" type="text/html" href="http://www.infoalisal.com/seccion01"/>
-<updated>2011-01-14T19:19:46Z</updated>
-<id>http://www.infoalisal.com/seccion01</id>
+<title>El tiempo</title>
+<link rel="alternate" type="text/html" href="https://www.eltiempo.es/"/>
+<updated>2018-11-28T20:19:46Z</updated>
+<id>https://www.eltiempo.es/</id>
 <author>
-<name>Marina Toro</name>
-<email>marina.toro@alisal.com</email>
+<name>Nikolai Tajes</name>
+<email>nikotajes@hotmail.es</email>
 </author>
-<summary>Ejemplo01 de seccion para un canal de contenidos</summary>
+<summary>Canal de contenidos ATOM</summary>
 </entry>
 <entry>
-<title>Ejemplo de Atom</title>
-<link rel="alternate" type="text/html" href="http://www.infoalisal.com/seccion01"/>
-<updated>2010-12-14T19:17:55Z</updated>
-<id>http://www.infoalisal.com/seccion02</id>
+<title>Noticias</title>
+<link rel="alternate" type="text/html" href="https://elpais.com/"/>
+<updated>2018-10-14T19:17:55Z</updated>
+<id>https://elpais.com/</id>
 <author>
-<name>Juan Flores</name>
+<name>Nikolai Tajes</name>
 </author>
-<summary>Ejemplo02 de seccion para un canal de contenidos</summary>
+<summary>Mi canal ATOM</summary>
 </entry>
 </feed>
